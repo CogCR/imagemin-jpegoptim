@@ -41,7 +41,7 @@
   "dependencies": {
     "execa": "^1.0.0",
     "is-jpg": "^2.0.0",
-    "jpegoptim-bin": "^5.0.0"
+    "jpegoptim-bin": "^5.1.0"
   },
   "devDependencies": {
     "ava": "*",
